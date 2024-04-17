@@ -357,6 +357,11 @@ and we need to hide the close menu icon
   margin-left: 10px;
 }
 
+.btn-project{
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
 .skill{
   display: inline-block;
   text-align: center;
